@@ -21,4 +21,4 @@ Open this project in Visual Studio Code or Jupyter Notebook after download it fr
 
 ## Copyrights
 
-Made with 🤍 by *Alharth Alhaj Hussein*
+Made with 🤍 by *Penguins Team : Alharth, Ali, Raghad, Manar*
