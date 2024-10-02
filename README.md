@@ -79,7 +79,7 @@ Using **RandomizedSearchCV**, we fine-tuned the hyperparameters for **Random For
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/Diamond-Price-Predictions-Model.git
+git clone https://github.com/AlharthAlhajHussein/Diamond-Price-Predictions-Model.git
 
 # Open the Jupyter Notebook or VS Code to run
 ```
